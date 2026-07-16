@@ -1,4 +1,7 @@
-<h1 align="center" style="color: #00C2FF;">DeepFort</h1>
+<p align="center" style="margin-bottom: -35px;">
+  <img src="../images/deepfort-header.png" alt="DeepFort" width="70%">
+</p>
+
 <h3 align="center">Engineering Secure & Scalable Infrastructure</h3>
 
 <p align="center">
